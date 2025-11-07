@@ -1,16 +1,9 @@
 # Plot3D Julia Library
+If you are thinking of using plot3d library in Julia, I am not going to support it. Julia is hard to debug with. It is so hard there are libraries for debugging. I like rust so head over to https://github.com/pjuangph/plot3d-rs 
 
-[![Build Status](https://github.com/nasa/plot3d_julia/Plot3D.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/nasa/plot3d_julia/Plot3D.jl/actions/workflows/CI.yml?query=branch%3Amain)
-
-# Plot3D Utilities
-A python plot3D library for reading, writing, finding connectivity, and post processing for Plot3D data files. 
-
-## Install Instructions
-Still needs a bit of work
-
-
-# Tutorials
-
+```rust
+  cargo add plot3d 
+```
 
 # Contributors
 | Name               	| Position 	| Dates     	| Contribution                              	|                             	|
